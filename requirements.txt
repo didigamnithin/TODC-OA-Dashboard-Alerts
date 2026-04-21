@@ -3,6 +3,6 @@ plotly==5.17.0
 pandas==2.1.1
 requests==2.31.0
 numpy==1.24.3
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 kaleido==0.2.1
 pillow==10.0.1
